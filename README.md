@@ -1,3 +1,5 @@
+CALCULATOR @ankur
+
 Created a simple calculator using HTML, CSS and Javascript.
 Inside the folder, there are three files – index.html, Readme.md, styles.css and script.js in there respective folders.
 
